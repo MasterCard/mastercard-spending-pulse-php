@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Application Test Suite" tests="4" assertions="184" failures="0" errors="0" time="6.650564">
+    <testsuite name="MasterCard\Api\SpendingPulse\GasWeeklyTest" file="/var/jenkins_home/jobs/MC-SpendingPulse-Php/workspace/generated-code/spending-pulse/php/sdk/Test/MasterCard/Api/SpendingPulse/GasWeeklyTest.php" tests="1" assertions="62" failures="0" errors="0" time="2.078249">
+      <testcase name="test_example_gasweekly" class="MasterCard\Api\SpendingPulse\GasWeeklyTest" file="/var/jenkins_home/jobs/MC-SpendingPulse-Php/workspace/generated-code/spending-pulse/php/sdk/Test/MasterCard/Api/SpendingPulse/GasWeeklyTest.php" line="55" assertions="62" time="2.078249"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\SpendingPulse\ParametersTest" file="/var/jenkins_home/jobs/MC-SpendingPulse-Php/workspace/generated-code/spending-pulse/php/sdk/Test/MasterCard/Api/SpendingPulse/ParametersTest.php" tests="1" assertions="30" failures="0" errors="0" time="1.504782">
+      <testcase name="test_example_parameters" class="MasterCard\Api\SpendingPulse\ParametersTest" file="/var/jenkins_home/jobs/MC-SpendingPulse-Php/workspace/generated-code/spending-pulse/php/sdk/Test/MasterCard/Api/SpendingPulse/ParametersTest.php" line="55" assertions="30" time="1.504782"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\SpendingPulse\SpendingPulseReportTest" file="/var/jenkins_home/jobs/MC-SpendingPulse-Php/workspace/generated-code/spending-pulse/php/sdk/Test/MasterCard/Api/SpendingPulse/SpendingPulseReportTest.php" tests="1" assertions="70" failures="0" errors="0" time="1.534441">
+      <testcase name="test_example_spendingpulse" class="MasterCard\Api\SpendingPulse\SpendingPulseReportTest" file="/var/jenkins_home/jobs/MC-SpendingPulse-Php/workspace/generated-code/spending-pulse/php/sdk/Test/MasterCard/Api/SpendingPulse/SpendingPulseReportTest.php" line="55" assertions="70" time="1.534441"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\SpendingPulse\SubscriptionTest" file="/var/jenkins_home/jobs/MC-SpendingPulse-Php/workspace/generated-code/spending-pulse/php/sdk/Test/MasterCard/Api/SpendingPulse/SubscriptionTest.php" tests="1" assertions="22" failures="0" errors="0" time="1.533092">
+      <testcase name="test_example_subscription" class="MasterCard\Api\SpendingPulse\SubscriptionTest" file="/var/jenkins_home/jobs/MC-SpendingPulse-Php/workspace/generated-code/spending-pulse/php/sdk/Test/MasterCard/Api/SpendingPulse/SubscriptionTest.php" line="55" assertions="22" time="1.533092"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
