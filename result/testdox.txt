@@ -1,0 +1,12 @@
+MasterCard\Api\SpendingPulse\GasWeekly
+ [x] example gasweekly
+
+MasterCard\Api\SpendingPulse\Parameters
+ [x] example parameters
+
+MasterCard\Api\SpendingPulse\SpendingPulseReport
+ [x] example spendingpulse
+
+MasterCard\Api\SpendingPulse\Subscription
+ [x] example subscription
+
