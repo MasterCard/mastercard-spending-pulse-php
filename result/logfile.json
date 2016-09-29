@@ -1,0 +1,73 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 4
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\SpendingPulse\\GasWeeklyTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\SpendingPulse\\GasWeeklyTest",
+    "test": "MasterCard\\Api\\SpendingPulse\\GasWeeklyTest::test_example_gasweekly"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\SpendingPulse\\GasWeeklyTest",
+    "test": "MasterCard\\Api\\SpendingPulse\\GasWeeklyTest::test_example_gasweekly",
+    "status": "pass",
+    "time": 0.79857897758484,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\SpendingPulse\\ParametersTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\SpendingPulse\\ParametersTest",
+    "test": "MasterCard\\Api\\SpendingPulse\\ParametersTest::test_example_parameters"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\SpendingPulse\\ParametersTest",
+    "test": "MasterCard\\Api\\SpendingPulse\\ParametersTest::test_example_parameters",
+    "status": "pass",
+    "time": 0.447340965271,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\SpendingPulse\\SpendingPulseReportTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\SpendingPulse\\SpendingPulseReportTest",
+    "test": "MasterCard\\Api\\SpendingPulse\\SpendingPulseReportTest::test_example_spendingpulse"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\SpendingPulse\\SpendingPulseReportTest",
+    "test": "MasterCard\\Api\\SpendingPulse\\SpendingPulseReportTest::test_example_spendingpulse",
+    "status": "pass",
+    "time": 0.42844319343567,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\SpendingPulse\\SubscriptionTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\SpendingPulse\\SubscriptionTest",
+    "test": "MasterCard\\Api\\SpendingPulse\\SubscriptionTest::test_example_subscription"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\SpendingPulse\\SubscriptionTest",
+    "test": "MasterCard\\Api\\SpendingPulse\\SubscriptionTest::test_example_subscription",
+    "status": "pass",
+    "time": 0.37016201019287,
+    "trace": [],
+    "message": "",
+    "output": ""
+}
