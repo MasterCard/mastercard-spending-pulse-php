@@ -1,0 +1,6 @@
+TAP version 13
+ok 1 - MasterCard\Api\SpendingPulse\GasWeeklyTest::test_example_gasweekly
+ok 2 - MasterCard\Api\SpendingPulse\ParametersTest::test_example_parameters
+ok 3 - MasterCard\Api\SpendingPulse\SpendingPulseReportTest::test_example_spendingpulse
+ok 4 - MasterCard\Api\SpendingPulse\SubscriptionTest::test_example_subscription
+1..4
